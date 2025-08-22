@@ -1,4 +1,6 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+NAME : GOWSIK S 
+Reg.no: 212223210006 
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -57,10 +59,9 @@ Step 7: Finalize and Export
 
 
 
-# Output
-```
-NAME : GOWSIK S 
-Reg.no: 212223210006 
+# Output:
+
+
 Prompt:  
 "Generate a professionally formatted, presentation-ready PDF of the 'Fundamentals of Generative 
 AI and LLMs' report. Include diagrams of Transformer architecture, GPT vs BERT comparison, 
@@ -183,7 +184,7 @@ energy usage, and ethical risks.
 3. Goodfellow et al., Generative Adversarial Nets, 2014.  
 4. Kingma & Welling, Auto-Encoding Variational Bayes, 2013.  
 5. Ho et al., Denoising Diffusion Probabilistic Models, 2020.
-```
+
 # Result:
 Generative AI and LLMs have transformed the AI landscape, enabling unprecedented levels of 
 machine creativity and intelligence. Tools like GitHub Copilot and ChatGPT show how the same 
