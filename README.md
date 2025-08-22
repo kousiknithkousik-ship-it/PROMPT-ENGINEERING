@@ -1,6 +1,7 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 NAME : GOWSIK S 
-Reg.no: 212223210006 
+
+REG NO: 212223210006 
 
 # Experiment:
 Develop a comprehensive report for the following exercises:
