@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
+```
 NAME : GOWSIK S 
 Reg.no: 212223210006 
 Prompt:  
@@ -181,8 +182,9 @@ energy usage, and ethical risks.
 2. OpenAI, GPT-4 Technical Report, 2023.  
 3. Goodfellow et al., Generative Adversarial Nets, 2014.  
 4. Kingma & Welling, Auto-Encoding Variational Bayes, 2013.  
-5. Ho et al., Denoising Diffusion Probabilistic Models, 2020.  
-13. Conclusion  
+5. Ho et al., Denoising Diffusion Probabilistic Models, 2020.
+```
+# Result:
 Generative AI and LLMs have transformed the AI landscape, enabling unprecedented levels of 
 machine creativity and intelligence. Tools like GitHub Copilot and ChatGPT show how the same 
 underlying technology can be tailored for entirely different user experiences — one for code 
@@ -190,4 +192,4 @@ generation in IDEs, the other for conversational assistance across domains. The 
 AI lies in balancing scaling, accessibility, and ethical responsibility. 
 
 
-# Result
+
