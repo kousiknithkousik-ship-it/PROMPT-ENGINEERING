@@ -1,7 +1,8 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 NAME : GOWSIK S 
 Reg.no: 212223210006 
-Experiment:
+
+# Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
 2.	Focusing on Generative AI architectures. (like transformers).
@@ -62,12 +63,13 @@ Step 7: Finalize and Export
 # Output:
 
 
-Prompt:  
+# Prompt:  
 "Generate a professionally formatted, presentation-ready PDF of the 'Fundamentals of Generative 
 AI and LLMs' report. Include diagrams of Transformer architecture, GPT vs BERT comparison, 
 scaling law graphs, and the Copilot vs ChatGPT table. Make the layout clean with headings, bullet 
 points, and visual elements suitable for academic or corporate use."  
-Introduction  
+
+# Introduction  
 Artificial Intelligence (AI) has evolved rapidly over the past decade, transitioning from rule-based 
 systems to deep learning models capable of learning and adapting from vast datasets. Among these 
 advancements, Generative AI stands out for its ability to produce realistic and original outputs — 
